@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 158">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd369;
+        font-family: Pointless, Pointless;
+        font-size: 35px;
+      }
+
+      .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-4" points="43.64 78.14 34.36 99.79 43.64 90.51 46.73 93.61 34.36 105.98 21.98 93.61 40.54 75.05 34.36 68.86 9.61 93.61 34.36 118.36 59.1 93.61 43.64 78.14"/>
+    </clipPath>
+  </defs>
+  <g id="G" class="cls-2">
+    <g class="cls-3">
+      <image id="G_Image" width="128" height="128" transform="translate(0 30)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAAAsSAAALEgHS3X78AAABTUlEQVR4nO3SAQEAIAyAsGtb8xpIg4xVgPXueRPWLr2tAXANgGsAXAPgGgDXALgGwDUArgFwDYBrAFwD4BoA1wC4BsA1AK4BcA2AawBcA+AaANcAuAbANQCuAXANgGsAXAPgGgDXALgGwDUArgFwDYBrAFwD4BoA1wC4BsA1AK4BcA2AawBcA+AaANcAuAbANQCuAXANgGsAXAPgGgDXALgGwDUArgFwDYBrAFwD4BoA1wC4BsA1AK4BcA2AawBcA+AaANcAuAbANQCuAXANgGsAXAPgGgDXALgGwDUArgFwDYBrAFwD4BoA1wC4BsA1AK4BcA2AawBcA+AaANcAuAbANQCuAXANgGsAXAPgGgDXALgGwDUArgFwDYBrAFwD4BoA1wC4BsA1AK4BcA2AawBcA+AaANcAuAbANQCuAXANgGsAXAPgGgDXALKZ+Q23BDoQXmLIAAAAAElFTkSuQmCC"/>
+    </g>
+  </g>
+  <g id="O">
+    <text class="cls-1" transform="translate(64 87.63) rotate(-45)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <g id="L">
+    <text class="cls-1" transform="translate(64 146.63) rotate(-45)"><tspan x="0" y="0">L</tspan></text>
+  </g>
+  <g id="D">
+    <text class="cls-1" transform="translate(94 117.63) rotate(-45)"><tspan x="0" y="0">D</tspan></text>
+  </g>
+</svg>
